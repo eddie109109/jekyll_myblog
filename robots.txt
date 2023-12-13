@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eddie109109.github.io/sitemap.xml
+Sitemap: https://eddie109109.github.io/jekyll_myblog/sitemap.xml
