@@ -6,11 +6,10 @@ subtitle: <a href='https://www.payfelix.com/'>@Felix Payment Systems</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>🏡 Burnaby, BC, 🇨🇦</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -26,4 +25,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a software developer who enjoys working on interesting machine learning projects, having fun conversations, and playing basketabll 🏀!
 
-You can find my `cv` file [here](http://127.0.0.1:4000/al-folio/cv/)
+You can find my `cv` file [here](https://eddie109109.github.io/jekyll_myblog/cv/)
