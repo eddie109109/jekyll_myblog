@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.payfelix.com/'>@Felix Payment Systems</a>.
+subtitle: <a href='https://www.payfelix.com/'>@Excelar</a>.
 
 profile:
   align: right
